@@ -1,4 +1,4 @@
-** aarch64-maestro-linux-android
+# aarch64-maestro-linux-android
 
 Just a static compiler, strimmed down
 

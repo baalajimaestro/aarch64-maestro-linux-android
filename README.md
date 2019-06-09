@@ -1,6 +1,6 @@
-# aarch64-maestro-elf-android
+# aarch64-maestro-linux-android
 
-Just a static, bare-metal compiler, strimmed down
+Just a static compiler, strimmed down, with binutils and glibc from mainline.
 
 Revisions/Branches:
 
@@ -8,8 +8,6 @@ Revisions/Branches:
 
 28042019: GCC 10.0 Experimental
 
-### BELOW ARE ALL BARE METAL COMPILERS
+09062019-9.1.1: GCC 9.1.1
 
-02062019-9.1.1: GCC 9.1.1
-
-02062019: GCC 10.0 Experimental
+09062019: GCC 10.0 Experimental

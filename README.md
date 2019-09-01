@@ -21,3 +21,5 @@ Revisions/Branches:
 170719: GCC 9.1.1
 
 200719: GCC 10.0 Experimental
+
+010919: GCC 9.2.1
